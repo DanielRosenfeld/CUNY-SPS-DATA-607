@@ -58,7 +58,7 @@ We collaborated in understanding the question at hand, brainstorming an approach
 
 Without further adieu, let’s introduce *Team Silver Fox*:
 
-* **Dan Rosenfeld** – [Github link]
+* **Dan Rosenfeld** – [Github](https://github.com/DanielRosenfeld)
 * **Magnus Skonberg** – [Github](https://github.com/Magnus-PS/)
 * **Mustafa Telab** – [Github](https://github.com/mtelab1)
 * **Josef Waples** - [Github](https://github.com/hachiko1024)
